@@ -1,0 +1,7 @@
+/resources/training/
+/resources/models/
+/Logs/
+.env
+.idea/
+*.iml
+__pycache__/

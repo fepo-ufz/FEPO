@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below, together with the FEPO article."
+title: "FEPO: Sandfly Extreme Population Prediction model"
+abstract: "FEPO predicts daily densities of phlebotomine sandflies from meteorological, hydrological and morphological predictors with a stacked ensemble of gradient boosted trees trained on light-trap catches."
+type: software
+authors:
+  - family-names: Soheili
+    given-names: Majid
+    affiliation: "Helmholtz Centre for Environmental Research - UFZ"
+    orcid: "https://orcid.org/0000-0002-9689-6184"
+  - family-names: Modiri
+    given-names: Ehsan
+    affiliation: "Helmholtz Centre for Environmental Research - UFZ"
+    email: ehsan.modiri@ufz.de
+    orcid: "https://orcid.org/0000-0002-4432-0343"
+  - family-names: Samaniego
+    given-names: Luis
+    affiliation: "Helmholtz Centre for Environmental Research - UFZ"
+    orcid: "https://orcid.org/0000-0002-8449-4428"
+version: 1.0.0
+date-released: 2026-11-09
+license: LGPL-3.0-or-later
+repository-code: "https://github.com/fepo-ufz/FEPO"
+keywords:
+  - sandflies
+  - Phlebotomus
+  - leishmaniasis
+  - vector abundance
+  - machine learning
+  - CatBoost
+  - CLIMOS
+references:
+  - type: article
+    title: "FEPO: a machine learning ensemble approach for predicting extreme phlebotomine sand fly abundance and leishmaniasis-risk hotspots across Europe"
+    status: preprint
+    doi: 10.21203/rs.3.rs-7852217/v1
+    year: 2025
+    authors:
+      - family-names: Soheili
+        given-names: Majid
+      - name: "et al."
