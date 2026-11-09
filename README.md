@@ -1,5 +1,7 @@
 # FEPO: Sandfly Extreme Population Prediction model
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24088777.svg)](https://doi.org/10.5281/zenodo.24088777)
+
 FEPO predicts daily densities of phlebotomine sandflies from meteorological, hydrological and morphological predictors with a stacked ensemble of gradient boosted trees trained on light-trap catches.
 
 FEPO was developed by Majid Soheili at the Helmholtz Centre for Environmental Research - UFZ in the
@@ -120,8 +122,9 @@ Set addresses in the.env file placed at the root directory
 
 ## Citation
 
-If you use FEPO, please cite the article above and this software (see `CITATION.cff`; the DOI of
-each release is on Zenodo).
+If you use FEPO, please cite the article above and this software (see `CITATION.cff`). The DOI
+<https://doi.org/10.5281/zenodo.24088777> always points to the latest release; release 1.0.0 is
+<https://doi.org/10.5281/zenodo.24088778>.
 
 ## Licence
 
