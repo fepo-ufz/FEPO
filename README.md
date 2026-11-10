@@ -11,6 +11,7 @@ CLIMOS project (EU Horizon Europe, grant agreement 101057690).
   phlebotomine sand fly abundance and leishmaniasis-risk hotspots across Europe,
   <https://doi.org/10.21203/rs.3.rs-7852217/v1>
 - Output for the CLIMOS domain, 1999-2010: <https://doi.org/10.5281/zenodo.24081829>
+- Output for the CLIMOS domain, 2011-2022: <https://doi.org/10.5281/zenodo.24104162>
 - Training tables are produced with PreFEPO: <https://github.com/fepo-ufz/PreFEPO>
 
 ## Release 1.0.0
@@ -123,8 +124,7 @@ Set addresses in the.env file placed at the root directory
 ## Citation
 
 If you use FEPO, please cite the article above and this software (see `CITATION.cff`). The DOI
-<https://doi.org/10.5281/zenodo.24088777> always points to the latest release; release 1.0.0 is
-<https://doi.org/10.5281/zenodo.24088778>.
+<https://doi.org/10.5281/zenodo.24088777> always points to the latest release.
 
 ## Licence
 
